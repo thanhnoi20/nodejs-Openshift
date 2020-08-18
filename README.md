@@ -1,4 +1,4 @@
-
+This repository is cloned from https://github.com/openshift/nodejs-ex.git. Manythanks for author.
 
 <!-- toc -->
 
